@@ -19,7 +19,7 @@ Videos demonstrating the tests and steps are available in the `assets` folder, a
 
 ### DC Motor with Driver
 https://github.com/user-attachments/assets/984f3a19-abe4-4103-b1a2-f43f0a341900
-- **Code**: [motor_test.ino](https://github.com/ssccddaasa/Micromouse/blob/main/All_Arduino_codes/motor_test)
+- **Code**: [motor_test](https://github.com/ssccddaasa/Micromouse/blob/main/All_Arduino_codes/motor_test)
 
 ### VL53L0X Lidar Sensor
 https://github.com/user-attachments/assets/06fdd07d-8f0c-4055-903a-3346d7c9caf0
